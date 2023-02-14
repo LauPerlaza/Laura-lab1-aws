@@ -11,4 +11,3 @@ Se decidio usar nginx  como servidor web de los servidores creados para la pagin
 
 Como la demanda cada vez crece mas en los servidores de duck y robots se balanceo el trafico a travez de un ALB     el cual se creo en una subred publica redireccionando cada uno por un puerto diferente 
 
-> este laboratorio me ha encantado, gracias por tu tiempo, tu paciencia y tu cariño. Te quiero demasiado!! 
